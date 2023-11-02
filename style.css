@@ -1,0 +1,20 @@
+* {
+  text-decoration: none;
+}
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: var(bs-data-bg);
+}
+#projek {
+  background-color: var(bs-data-bg);
+}
+section {
+  padding-top: 6rem;
+}
+footer {
+  text-decoration: none;
+  background-color: var(bs-data-bg);
+}
